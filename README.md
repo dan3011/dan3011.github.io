@@ -6,7 +6,9 @@
 
 [homework2 第二次作业](./resources/Homework2.pdf)
 
-[pingyin 拼音小程序](http://www.4399.com/flash/112950_3.htm)
+[pinyinVideo](https://www.youtube.com/watch?v=b6h4p5GbAXw&list=PLr5LXsaS25pNgGZIJEi1LdkCkrjq_o2nB&index=2)
+
+[pingyinAPP 拼音小程序](http://www.4399.com/flash/112950_3.htm)
 
 [myHead 头部五官视频](https://www.youtube.com/watch?v=EEU8X1QtkR8)
 
