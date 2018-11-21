@@ -1,8 +1,4 @@
-# Dan's class
-
-## Resources
-
-### 21-11-2018
+## 21-11-2018
 
 [homework1 第一次作业](./resources/Homework1.pdf)
 
