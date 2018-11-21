@@ -14,4 +14,4 @@
 
 [vocabularyAPP](http://www.languageguide.org/mandarin/vocabulary/)
 
-[PPT Class 3] 
+[PPT Class 3](./resources/PPT3.pdf)
