@@ -4,7 +4,7 @@
 
 ### 21-11-2018
 
-[homework1 第一次作业](./resources/Homework1forNIKO&ALEX.pdf)
+[homework1 第一次作业](./resources/Homework1.pdf)
 
 [color 颜色练习小程序](https://www.petralingua.com/members/zh/lekcija_boje/index.php)
 
