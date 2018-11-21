@@ -4,6 +4,10 @@
 
 ### 21-11-2018
 
+[homework1 第一次作业](./resources/Homework2.pdf)
+
+[color 颜色练习小程序](https://www.petralingua.com/members/zh/lekcija_boje/index.php)
+
 [homework2 第二次作业](./resources/Homework2.pdf)
 
 [pinyinVideo 拼音视频](https://www.youtube.com/watch?v=b6h4p5GbAXw&list=PLr5LXsaS25pNgGZIJEi1LdkCkrjq_o2nB&index=2)
