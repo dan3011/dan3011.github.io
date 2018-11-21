@@ -10,8 +10,8 @@
 
 [myHead 头部五官视频](https://www.youtube.com/watch?v=EEU8X1QtkR8)
 
-[livingRoom 起居室名词]（http://www.languageguide.org/mandarin/vocabulary/den/）
+[livingRoom 起居室名词](http://www.languageguide.org/mandarin/vocabulary/den/)
 
-[vocabularyAPP] (http://www.languageguide.org/mandarin/vocabulary/)
+[vocabularyAPP](http://www.languageguide.org/mandarin/vocabulary/)
 
 [PPT Class 3] 
