@@ -12,14 +12,18 @@
 
 [vocabularyAPP 各种名词小程序](http://www.languageguide.org/mandarin/vocabulary/)
 
+---- 视频 ----
+
+[family 家人视频](https://www.youtube.com/watch?v=uc7qd9xPpDY&list=PLviExGKNfEbnMiUEw7SH_TxxSeNFW9iWs&index=4)
+
+[pinyinVideo 拼音视频](https://www.youtube.com/watch?v=b6h4p5GbAXw&list=PLr5LXsaS25pNgGZIJEi1LdkCkrjq_o2nB&index=2)
+
+[myHead 头部五官视频](https://www.youtube.com/watch?v=EEU8X1QtkR8)
+
 ---- 文档 ----
 
 [homework1 第一次作业](./resources/Homework1.pdf)
 
 [homework2 第二次作业](./resources/Homework2.pdf)
-
-[pinyinVideo 拼音视频](https://www.youtube.com/watch?v=b6h4p5GbAXw&list=PLr5LXsaS25pNgGZIJEi1LdkCkrjq_o2nB&index=2)
-
-[myHead 头部五官视频](https://www.youtube.com/watch?v=EEU8X1QtkR8)
 
 [PPT Class 3 第三课课件](./resources/第三课.pdf)
