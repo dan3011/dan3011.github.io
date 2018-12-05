@@ -4,7 +4,7 @@
 
 [讲故事小程序](http://www.yes-chinese.com/v2010/reading/)
 
-[交通工具名称]（http://www.yes-chinese.com/card/view.html?theme=Transportation）
+[交通工具名称](http://www.yes-chinese.com/card/view.html?theme=Transportation)
 
 [numbers 数字练习小程序](http://www.4399.com/flash/65052_2.htm)
 
