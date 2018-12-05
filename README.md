@@ -2,6 +2,8 @@
 
 ---- 程序 ----
 
+[讲故事小程序](http://www.yes-chinese.com/v2010/reading/)
+
 [numbers 数字练习小程序](http://www.4399.com/flash/65052_2.htm)
 
 [color 颜色练习小程序](https://www.petralingua.com/members/zh/lekcija_boje/index.php)
