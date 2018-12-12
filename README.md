@@ -18,7 +18,7 @@
 
 ---- 视频 ----
 
-[如果开心歌]（https://www.youtube.com/watch?v=wAGJVPXaHHk）
+[如果开心歌](https://www.youtube.com/watch?v=wAGJVPXaHHk)
 
 [交通工具](https://www.youtube.com/watch?v=9UDdhMYlgW4)
 
