@@ -1,5 +1,8 @@
 ## 21-11-2018
 
+[龟兔赛跑故事](https://www.youtube.com/watch?v=VB9nGfKcRyY)
+
+
 ---- 程序 ----
 
 [讲故事小程序](http://www.yes-chinese.com/v2010/reading/)
