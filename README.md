@@ -1,6 +1,6 @@
 ## 29-01-2019
 
-[龟兔赛跑故事](https://www.youtube.com/watch?v=VB9nGfKcRyY)
+[课件](https://dan3011.github.io/adults/slides1.pdf)
 
 
 ---- 程序 ----
