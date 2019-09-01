@@ -5,7 +5,7 @@
 
 ---- 程序 ----
 
-[讲故事小程序](http://www.yes-chinese.com/v2010/reading/)
+[实用汉语视频](https://www.youtube.com/results?search_query=%E5%AE%9E%E7%94%A8%E6%B1%89%E8%AF%AD)
 
 [交通工具名称](http://www.yes-chinese.com/card/view.html?theme=Transportation)
 
