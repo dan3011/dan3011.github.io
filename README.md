@@ -1,4 +1,4 @@
-## 29-01-2019
+## 01-09-2019
 
 [课件](https://dan3011.github.io/adults/slides1.pdf)
 
@@ -39,8 +39,3 @@
 
 ---- 文档 ----
 
-[homework1 第一次作业](./resources/Homework1.pdf)
-
-[homework2 第二次作业](./resources/Homework2.pdf)
-
-[PPT Class 3 第三课课件](./resources/第三课.pdf)
