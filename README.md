@@ -1,6 +1,6 @@
 ## 中文课 -- 成人
 
-[课件](https://dan3011.github.io/adults/slides1.pdf)
+[课件 1](https://dan3011.github.io/adults/slides1.pdf)
 
 [Inlingua 教师用书](https://dan3011.github.io/adults/InlinguaTeacher.pdf)
 
@@ -8,6 +8,10 @@
 
 [实用汉语视频](https://www.youtube.com/results?search_query=%E5%AE%9E%E7%94%A8%E6%B1%89%E8%AF%AD)
 
+
+
+---- 参考材料 ----
+[课件 第一课](https://dan3011.github.io/adults/Chinese Lesson1.pdf)
 
 
 ---- 程序 ----
