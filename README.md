@@ -12,9 +12,9 @@
 
 ---- 参考材料 ----
 
-[课件 第一课](https://dan3011.github.io/adults/Chinese_Lesson1.pdf)
+[课件 第一课](https://dan3011.github.io/Chinese_Lesson1.pdf)
 
-[课件 第二课](https://dan3011.github.io/adults/Chinese_Lesson2.pdf)
+[课件 第二课](https://dan3011.github.io/Chinese_Lesson2.pdf)
 
 [体验汉语 教材](https://dan3011.github.io/adults/Experiencing_Chinese_Book.pdf)
 
