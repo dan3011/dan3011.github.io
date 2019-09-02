@@ -16,7 +16,7 @@
 
 [课件 第二课](https://dan3011.github.io/adults/Chinese_Lesson2.pdf)
 
-[体验汉语 教材](https://dan3011.github.io/adults/Experiencing_Chinese _Book.pdf)
+[体验汉语 教材](https://dan3011.github.io/adults/Experiencing_Chinese_Book.pdf)
 
 
 ---- 程序 ----
