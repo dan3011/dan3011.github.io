@@ -1,5 +1,7 @@
 ## 中文课 -- 成人
 
+[课件 1](https://dan3011.github.io/slides1.pdf)
+
 [课件 1](https://dan3011.github.io/adults/slides1.pdf)
 
 [Inlingua 教师用书](https://dan3011.github.io/adults/InlinguaTeacher.pdf)
