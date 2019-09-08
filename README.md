@@ -1,6 +1,6 @@
 ## 中文课 -- 成人
 
-[第一课](https://dan3011.github.io/Lesson1.pdf)
+[第一课](https://dan3011.github.io/adults/Lesson1.pdf)
 
 [第二课](https://dan3011.github.io/adults/Lesson2&3.pdf)
 
