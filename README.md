@@ -1,8 +1,10 @@
 ## 中文课 -- 成人
 
-[第一课](https://dan3011.github.io/adults/Lesson1.pdf)
+[第1课](https://dan3011.github.io/adults/Lesson1.pdf)
 
-[第二课](https://dan3011.github.io/adults/Lesson2&3.pdf)
+[第2课](https://dan3011.github.io/adults/Lesson2.pdf)
+
+[第3课](https://dan3011.github.io/adults/Lesson2&3.pdf)
 
 [Inlingua 教师用书](https://dan3011.github.io/adults/InlinguaTeacher.pdf)
 
