@@ -2,9 +2,9 @@
 
 [第1课](https://dan3011.github.io/adults/Lesson1.pdf)
 
-[第2课](https://dan3011.github.io/adults/Lesson2.pdf)
+[第2课+第3课](https://dan3011.github.io/adults/Lesson2and3.pdf)
 
-[第3课](https://dan3011.github.io/adults/Lesson2&3.pdf)
+[第4课+第5课](https://dan3011.github.io/adults/Lesson4and5.pdf)
 
 [Inlingua 教师用书](https://dan3011.github.io/adults/InlinguaTeacher.pdf)
 
