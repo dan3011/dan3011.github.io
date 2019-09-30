@@ -12,6 +12,9 @@
 
 [实用汉语视频](https://www.youtube.com/results?search_query=%E5%AE%9E%E7%94%A8%E6%B1%89%E8%AF%AD)
 
+[测验1](https://dan3011.github.io/adults/Quiz1.pdf)
+
+
 
 
 ---- 参考材料 ----
