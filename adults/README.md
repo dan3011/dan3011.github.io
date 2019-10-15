@@ -14,6 +14,9 @@
 
 [测验1](https://dan3011.github.io/adults/Quiz1.pdf)
 
+[练习1](https://dan3011.github.io/adults/Exercise1.pdf)
+
+
 
 
 
