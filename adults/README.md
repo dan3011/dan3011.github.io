@@ -12,13 +12,13 @@
 
 [实用汉语视频](https://www.youtube.com/results?search_query=%E5%AE%9E%E7%94%A8%E6%B1%89%E8%AF%AD)
 
-[第六课：测验1](https://dan3011.github.io/adults/Quiz1.pdf)
+[第六课：测验1](https://dan3011.github.io/adults/quiz1.pdf)
 
 [第八课：季节和天气](https://dan3011.github.io/adults/Exercise1.pdf)
 
 [第九课：职业](https://dan3011.github.io/adults/Lesson9.pdf)
 
-[第十课：测验2](https://dan3011.github.io/adults/Quiz2.pdf)
+[第十课：测验2](https://dan3011.github.io/adults/quiz2.pdf)
 
 
 
