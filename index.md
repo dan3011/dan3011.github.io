@@ -12,7 +12,10 @@
 
 [第四课 复习内容：实用汉语练习册 第二课 语音](https://www.ximalaya.com/waiyu/24537229/)
 
-[第四课 新内容： 实用汉语教材 第四课 第五课](https://dan3011.github.io/regular/hanyu_4and5.pdf)
+[第四课 新内容： 实用汉语教材 第四课](https://dan3011.github.io/regular/hanyu_4and5.pdf)
+
+[第五课 新内容： 实用汉语教材 第五课](https://dan3011.github.io/regular/hanyu_4and5.pdf)
+
 
 [其它](https://dan3011.github.io/adults)
 
