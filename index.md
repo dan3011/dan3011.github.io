@@ -16,6 +16,8 @@
 
 [第五课 复习内容：生词](https://dan3011.github.io/regular/Lesson4_newwords.pdf)
 
+[第五课 复习内容：练习册 第四课]
+
 [第五课 新内容： 实用汉语教材 第五课](https://dan3011.github.io/regular/hanyu_4and5.pdf)
 
 
