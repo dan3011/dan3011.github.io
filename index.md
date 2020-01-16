@@ -14,5 +14,7 @@
 
 [第四课 实用汉语教材 第四课 第五课](https://dan3011.github.io/regular/hanyu_4and5.pdf)
 
+[第六课 实用汉语教材](https://dan3011.github.io/regular/hanyu_6.pdf)
+
 [其它](https://dan3011.github.io/adults)
 
