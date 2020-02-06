@@ -24,9 +24,12 @@
 
 [第六课 复习内容：第五课生词](https://dan3011.github.io/regular/Lesson5_newwords.pdf)
 
-[第六课 新内容：实用汉语教材 第六课](https://dan3011.github.io/regular/hanyu_6.pdf)
+[第六课 新内容：实用汉语教材 第五课Part2](https://dan3011.github.io/regular/hanyu_4and5.pdf)
 
 [第七课(08-02-2020) 复习内容：前六课生词](https://dan3011.github.io/regular/Review_6Lessons.pdf)
+
+[第六课 新内容：实用汉语教材 第六课](https://dan3011.github.io/regular/hanyu_6.pdf)
+
 
 [其它](https://dan3011.github.io/adults)
 
