@@ -26,5 +26,7 @@
 
 [第六课 新内容：实用汉语教材 第六课](https://dan3011.github.io/regular/hanyu_6.pdf)
 
+[第七课(08-02-2020) 复习内容：前六课生词](https://dan3011.github.io/regular/Review_6Lessons.pdf)
+
 [其它](https://dan3011.github.io/adults)
 
