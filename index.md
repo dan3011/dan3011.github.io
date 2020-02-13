@@ -34,5 +34,6 @@
 
 [第八课 新内容：实用汉语教材 第七课]
 
+[少数民族](https://www.chinahighlights.com/travelguide/nationality/)
 [其它](https://dan3011.github.io/adults)
 
