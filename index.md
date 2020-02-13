@@ -30,7 +30,7 @@
 
 [第七课 新内容：实用汉语教材 第六课](https://dan3011.github.io/regular/hanyu_6.pdf)
 
-[第八课(14-02-2020) 复习内容：第六课对话](https://dan3011.github.io/regular/Review_Lesson6.pdf)
+[第八课(14-02-2020) 复习内容：第六课对话](https://dan3011.github.io/regular/Lesson6_newwords.pdf)
 
 [第八课 新内容：实用汉语教材 第七课]
 
