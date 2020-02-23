@@ -32,7 +32,12 @@
 
 [第八课(14-02-2020) 复习内容：第六课对话](https://dan3011.github.io/regular/Lesson6_newwords.pdf)
 
-[第八课 新内容：实用汉语教材 第七课]
+[第八课 新内容：语法（动词谓语句）]
+
+[第九课(24-02-2020) 复习内容：]
+
+[第九课 新内容：实用汉语教材 第七课]
+
 
 [少数民族](https://www.chinahighlights.com/travelguide/nationality/)
 [其它](https://dan3011.github.io/adults)
