@@ -36,7 +36,7 @@
 
 [第九课(03-03-2020) 复习内容：]
 
-[第九课 新内容：实用汉语教材 第七课]
+[第九课 新内容：实用汉语教材 第七课](https://dan3011.github.io/regular/Lesson7_Grammar.pdf)
 
 
 [少数民族](https://www.chinahighlights.com/travelguide/nationality/)
