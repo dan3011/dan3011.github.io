@@ -38,7 +38,9 @@
 
 [第九课 新内容：实用汉语教材 第七课](https://dan3011.github.io/regular/Lesson7_Grammar.pdf)
 
-[第10课(12/02/20) 新内容：实用汉语教材 第八课](https://dan3011.github.io/regular/Lesson120320.pdf)
+[第10课(12/03/20) 新内容：实用汉语教材 第七-八课](https://dan3011.github.io/regular/Lesson120320.pdf)
+
+[第11课(18/03/20) 新内容：实用汉语教材 第八课](https://dan3011.github.io/regular/Lesson180320.pdf)
 
 [少数民族](https://www.chinahighlights.com/travelguide/nationality/)
 [其它](https://dan3011.github.io/adults)
