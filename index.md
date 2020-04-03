@@ -44,9 +44,9 @@
 
 [第12课(26/03/20) 新内容：实用汉语教材 第八课](https://dan3011.github.io/regular/Lesson12_260320.pdf)
 
-[第13课(02/04/20) 新内容：实用汉语教材 第九课](https://dan3011.github.io/regular/Lesson13_020420.pdf)
+[第13课(02/04/20) 新内容：实用汉语教材 第九课 笔记](https://dan3011.github.io/regular/Lesson13_020420.pdf)
 
-[第13课(02/04/20) 新内容：实用汉语教材 第九课](https://dan3011.github.io/regular/Lesson13_Date.pdf)
+[第13课(02/04/20) 新内容：实用汉语教材 第九课 日期](https://dan3011.github.io/regular/Lesson13_Date.pdf)
 
 [第14课(XX/20) 复习](https://dan3011.github.io/regular/Exercise_L8-9.pdf)
 
