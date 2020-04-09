@@ -48,11 +48,11 @@
 
 [第13课(02/04/20) 新内容：实用汉语教材 第九课 日期](https://dan3011.github.io/regular/Lesson13_Date.pdf)
 
-[第14课(XX/20) 复习](https://dan3011.github.io/regular/Exercise_L8-9.pdf)
+[第14课(09/04/20) 复习](https://dan3011.github.io/regular/Exercise_L8-9_Answer.pdf)
 
-[第14课(XX/20) 新内容：实用汉语教材 第九课](https://dan3011.github.io/regular/Lesson.pdf)
+[第14课(09/04/20) 新内容：实用汉语教材 第九课](https://dan3011.github.io/regular/Lesson14_090420.pdf)
 
-
+[第15课(XX/04/20) 新内容：实用汉语教材 第十课](https://dan3011.github.io/regular/Lesson15_XX0420.pdf)
 
 [少数民族](https://www.chinahighlights.com/travelguide/nationality/)
 [其它](https://dan3011.github.io/adults)
