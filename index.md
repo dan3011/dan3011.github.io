@@ -52,7 +52,7 @@
 
 [第14课(09/04/20) 新内容：实用汉语教材 第九课](https://dan3011.github.io/regular/Lesson14_090420.pdf)
 
-[第15课(XX/04/20) 新内容：实用汉语教材 第十课](https://dan3011.github.io/regular/Lesson15_XX0420.pdf)
+[第15课(21/04/20) 新内容：实用汉语教材 第十课](https://dan3011.github.io/regular/Lesson15_210420_withnotes.pdf)
 
 [少数民族](https://www.chinahighlights.com/travelguide/nationality/)
 [其它](https://dan3011.github.io/adults)
