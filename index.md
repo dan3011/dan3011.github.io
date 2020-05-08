@@ -54,6 +54,8 @@
 
 [第15课(21/04/20) 新内容：实用汉语教材 第十课](https://dan3011.github.io/regular/Lesson15_210420_withnotes.pdf) 
 
+[第16课(08/54/20) 新内容：实用汉语教材 第十课 练习](https://dan3011.github.io/regular/Lesson16_080520_withnotes.pdf) 
+
 [少数民族](https://www.chinahighlights.com/travelguide/nationality/)
 [其它](https://dan3011.github.io/adults)
 
