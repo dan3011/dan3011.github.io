@@ -58,7 +58,20 @@
 
 [第17课(22/05/20) 新内容：实用汉语教材 第十一课](https://dan3011.github.io/regular/Lesson17&18_withnotes.pdf) 
 
-[第18课(5/06/20) 新内容：实用汉语教材 第十一课 练习](https://dan3011.github.io/regular/Lesson17&18_withnotes.pdf) 
+[第18课(05/06/20) 新内容：实用汉语教材 第十一课 练习](https://dan3011.github.io/regular/Lesson17&18_withnotes.pdf) 
+
+[第19课(17/06/20) 复习Lesson1-6](https://dan3011.github.io/regular/Lesson19_ReviewLesson1-6.pdf) 
+
+## 第二阶段
+
+[第21课(09/07/20) HSK一级练习](https://dan3011.github.io/regular/Lesson21_HSK1.pdf) 
+
+[第22课(17/07/20) 新内容：教材 第十二课](https://dan3011.github.io/regular/Lesson22_170720_withnotes.pdf) 
+
+[第23课(28/07/20) 新内容：教材 第十二课](https://dan3011.github.io/regular/Lesson23_280720_withnotes.pdf) 
+
+
+
 
 
 [少数民族](https://www.chinahighlights.com/travelguide/nationality/)
