@@ -70,7 +70,9 @@
 
 [第23课(28/07/20) 新内容：教材 第十二课](https://dan3011.github.io/regular/Lesson23_280720_withnotes.pdf) 
 
+[第24课(11/09/20) 新内容：教材 第十三课](https://dan3011.github.io/regular/Lesson24_110920.pdf) 
 
+[第24课(11/09/20) 作业](https://dan3011.github.io/regular/Homework.pdf) 
 
 
 
