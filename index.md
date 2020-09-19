@@ -76,7 +76,7 @@
 
 [第25课(11/09/20) 新内容：教材 第十三课](https://dan3011.github.io/regular/Lesson25_110920.pdf) 
 
-[第26课(21/09/20) 新内容：教材 第十三课 练习](https://dan3011.github.io/regular/Lesson26_210920.pdf) 
+[第26课(21/09/20) 新内容：教材 第十三课 练习](https://dan3011.github.io/regular/Lesson26_CommunicationSkills.pdf) 
 
 
 
