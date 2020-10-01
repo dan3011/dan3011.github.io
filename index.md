@@ -80,7 +80,7 @@
 
 [第27课(02/10/20) 口语练习](https://dan3011.github.io/regular/Lesson26_CommunicationSkills.pdf) 
 
-[第27课(02/10/20) 新内容：教材 第十四课](https://dan3011.github.io/regular/Lesson26_021020.pdf) 
+[第27课(02/10/20) 新内容：教材 第十四课](https://dan3011.github.io/regular/Lesson27_021020.pdf) 
 
 
 [少数民族](https://www.chinahighlights.com/travelguide/nationality/)
